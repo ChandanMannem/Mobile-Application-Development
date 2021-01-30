@@ -1,0 +1,15 @@
+<!--Assignment - Inclass 02a-->
+<!--File Name: strings.xml-->
+<!--Full Name  - Chandan Mannem, Mahalavanya Sriram-->
+
+<resources>
+    <string name="app_name">In Class 02a</string>
+    <string name="miles">To Miles</string>
+    <string name="meters">To Meters</string>
+    <string name="feet">To Feet</string>
+    <string name="clear">Clear All</string>
+    <string name="edit_hint">Enter Inch Value</string>
+    <string name="inches">Inches:</string>
+    <string name="result">Result:</string>
+    <string name="convert">Convert</string>
+</resources>
