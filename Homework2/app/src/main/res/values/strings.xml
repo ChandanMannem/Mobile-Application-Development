@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="title">You have 0 tasks</string>
+    <string name="Upcoming">Upcoming Tasks</string>
+    <string name="upcoming_task">Do Homework</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="name">Name : </string>
+    <string name="date">Date : </string>
+    <string name="priority">Priority : </string>
+    <string name="set_date">Set date</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_info">Task Information</string>
+    <string name="delete">DELETE</string>
+    <string name="select_task">Select Task</string>
+    <string name="view_task">VIEW TASKS</string>
+    <string name="create_task">CREATE A TASK</string>
+    <string name="name_error">Enter Valid Name</string>
+    <string name="date_error">Select the date</string>
+    <string name="priority_error">Select One of the Radio Button</string>
+    <string name="none">None</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="delete_msg">Are you sure you want to delete this task ?</string>
+    <string name="ok">OK</string>
+    <string name="no_action_msg">No Action Performed</string>
+    <string name="delete_success"> Task deleted successfully </string>
+    <string name="date_format_error">Date Format Erro</string>
+
+</resources>
