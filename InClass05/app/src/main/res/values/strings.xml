@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InClass05</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_button">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="app_categories">App Categories</string>
+    <string name="register_account">Register Account</string>
+    <string name="email_error">Enter Valid Email</string>
+    <string name="password_error">Enter Password</string>
+    <string name="login_error">Enter Valid Email or Password</string>
+    <string name="name_error">Enter Name</string>
+    <string name="register_error">Email Already Occupied, Select Different Email</string>
+    <string name="register_success">Registration Successful</string>
+    <string name="logout">Log Out</string>
+    <string name="top_paid">Top Paid Apps</string>
+    <string name="app_details">App Details</string>
+
+</resources>
