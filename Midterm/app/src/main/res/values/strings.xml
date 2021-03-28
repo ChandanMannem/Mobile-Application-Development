@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Forums Application</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_button">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="forum_title">Forum Title</string>
+    <string name="forum_desc">Forum Description</string>
+    <string name="logout">Logout</string>
+    <string name="new_forum">New Forum</string>
+    <string name="write_comment">Write Comment</string>
+    <string name="post">Post</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="forums">Forums</string>
+    <string name="forum">Forum</string>
+    <string name="login_error">Login Error! Try Again.</string>
+</resources>
